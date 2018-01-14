@@ -1,0 +1,6 @@
+@import "./Utils.css";
+
+body{
+	background-color:var(--main-color-5);
+}
+
