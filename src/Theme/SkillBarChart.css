@@ -1,24 +1,24 @@
 @import "./Utils.css";
 
 .bar-label {
-		color: white;
-		font: 15px 'opensans-bold', sans-serif;
-		letter-spacing: 2px;
-		font-weight: bold;
-		position: relative;
-		top: 10px;
-		left: 10px;
+    color: white;
+    font: 15px 'opensans-bold', sans-serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+    position: relative;
+    top: 10px;
+    left: 10px;		
 }
 
 .bar-suffix {
-		display: inline-block;
-		color: black;
-		font: 15px 'opensans-bold', sans-serif;
-		letter-spacing: 2px;
-		font-weight: bold;
-		position: relative;
-		top: 10px;
-		left: 10px;
+    display: inline-block;
+    color: black;
+    font: 15px 'opensans-bold', sans-serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+    position: relative;
+    top: 10px;
+    left: 10px;
 }
 
 .bar-contain {
