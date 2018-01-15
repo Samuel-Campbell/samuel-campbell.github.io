@@ -16,7 +16,7 @@ class SkillBarChart extends Component {
                 {label:'python', value:85, showValue: true, suffix: '%'},
                 {label:'vhdl', value:45, showValue: true, suffix: '%'},
             ]
-		    }
+        }
     }
     render() {
 	      return (

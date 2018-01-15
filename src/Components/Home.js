@@ -8,25 +8,25 @@ class Home extends Component {
     render() {
         return (
             <div>
-				<h2>Home</h2>
-				<table>
-	                <tr>
-						<td><img src={procezeus} alt="" width="30%" height="30%"/></td>
-						<td>Description</td>
-					</tr>
-					<tr>
-						<td><img src={mda} alt="" width="30%" height="30%"/></td>
-						<td>Description</td>						
-					</tr>				
-					<tr>
-						<td><img src={mcga} alt="" width="30%" height="30%"/></td>
-						<td>Description</td>						
-					</tr>
-					<tr>
-						<td><img src={ads} alt="" width="30%" height="30%"/></td>
-						<td>Description</td>						
-					</tr>	
-				</table>
+                <h2>Home</h2>
+                <table>
+                    <tr>
+                        <td><img src={procezeus} alt="" width="30%" height="30%"/></td>
+                        <td>Description</td>
+                    </tr>
+                    <tr>
+                        <td><img src={mda} alt="" width="30%" height="30%"/></td>
+                        <td>Description</td>						
+                    </tr>				
+                    <tr>
+                        <td><img src={mcga} alt="" width="30%" height="30%"/></td>
+                       <td>Description</td>						
+                    </tr>
+                    <tr>
+                        <td><img src={ads} alt="" width="30%" height="30%"/></td>
+                        <td>Description</td>						
+                    </tr>	
+                </table>
             </div>
         );
     }
