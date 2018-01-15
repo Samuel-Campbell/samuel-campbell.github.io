@@ -8,13 +8,13 @@ class SkillBarChart extends Component {
         this.state={
             skills:[
                 {label:'android', value:30, showValue: true, suffix: '%'},
-                {label:'c', value:30, showValue: true, suffix: '%'},
-                {label:'c#', value:20, showValue: true, suffix: '%'},								
+                {label:'c', value:60, showValue: true, suffix: '%'},
+                {label:'c#', value:70, showValue: true, suffix: '%'},								
                 {label:'c++', value:40, showValue: true, suffix: '%'},
-                {label:'java', value:85, showValue: true, suffix: '%'},
+                {label:'java', value:70, showValue: true, suffix: '%'},
                 {label:'javascript', value:30, showValue: true, suffix: '%'},				
-                {label:'python', value:70, showValue: true, suffix: '%'},
-                {label:'vhdl', value:50, showValue: true, suffix: '%'},
+                {label:'python', value:85, showValue: true, suffix: '%'},
+                {label:'vhdl', value:45, showValue: true, suffix: '%'},
             ]
 		    }
     }
