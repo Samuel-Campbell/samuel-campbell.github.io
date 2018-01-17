@@ -1,5 +1,10 @@
 @import "./Utils.css";
 
+#skillbar-chart-component{
+    background-color:var(--main-color-2);
+    opacity: 0.95;
+}
+
 .bar-label {
     color: white;
     font: 15px 'opensans-bold', sans-serif;

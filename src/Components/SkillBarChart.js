@@ -6,7 +6,7 @@ class SkillBarChart extends Component {
     constructor(props){
         super(props);
         this.state={
-            skills:[
+            primary_skills:[
                 {label:'android', value:30, showValue: true, suffix: '%'},
                 {label:'c', value:60, showValue: true, suffix: '%'},
                 {label:'c#', value:70, showValue: true, suffix: '%'},								
@@ -15,13 +15,23 @@ class SkillBarChart extends Component {
                 {label:'javascript', value:30, showValue: true, suffix: '%'},				
                 {label:'python', value:85, showValue: true, suffix: '%'},
                 {label:'vhdl', value:45, showValue: true, suffix: '%'},
+            ],
+            secondary_skills:[
+                {label:'boxing', value:50, showValue: true, suffix: '%'},
+                {label:'fishing', value:30, showValue: true, suffix: '%'},
+                {label:'golf', value:10, showValue: true, suffix: '%'},
+                {label:'3d printing', value:40, showValue: true, suffix: '%'},
+                {label:'cooking', value:60, showValue: true, suffix: '%'}
             ]
         }
     }
     render() {
-	      return (
+        return (
             <div id="skillbar-chart-component">
-                <Bars data={this.state.skills} makeUppercase={true}/>
+                <h1>Primary Spec</h1>
+                <Bars data={this.state.primary_skills} makeUppercase={true}/>
+                <h1>Secondary Spec</h1>
+                <Bars data={this.state.secondary_skills} makeUppercase={true}/>
             </div>
         );
     }

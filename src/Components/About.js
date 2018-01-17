@@ -1,12 +1,14 @@
 import React, { Component } from 'react';
+import '../Theme/About.css';
 
 class About extends Component {
     render() {
         return (
-            <div>
-                <h2>About</h2>
+            <div id="about-component">
+                <h1>About</h1>
+                <br/>
+                <h1>Chatbot in dev</h1>
                 <div id="chatbot-reply">
-                    Some reply message
                 </div>
                 <form>
                     <input type="text"/>

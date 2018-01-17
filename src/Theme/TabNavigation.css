@@ -1,34 +1,8 @@
 @import "./Utils.css";
 
-#tab-navigation-component{	
+#tab-navigation-component{
+    opacity:0.95;
+    background-color: var(--main-color-1);
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: var(--main-color-2);
-    color: var(--font-color-1);
-    font-family: var(--main-font);
-}
 
-li {
-    display: inline;
-    padding: 10px;
-}
-
-a:hover {
-    color: var(--font-color-1);
-    text-decoration: none;
-}
-
-a:link {
-	color: var(--font-color-1);
-    text-decoration: none;
-}
-
-a:visited {
-    color: var(--font-color-1);
-    text-decoration: none;
-}

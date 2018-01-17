@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
+import '../Theme/Contact.css';
 
 class Contact extends Component {
     render() {
         return (
-            <div>
-                <h2>Contact</h2>
+            <div id="contact-component">
+                <h1>Contact</h1>
                 email: samuel.pcampbell@gmail.com<br/>
                 phone: 514-654-1320
             </div>

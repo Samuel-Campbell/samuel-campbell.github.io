@@ -9,3 +9,21 @@
     
     --main-font: Geneva, Tahoma, Verdana, sans-serif;
 }
+
+h1{
+    color: var(--font-color-1);
+}
+
+a:link, a:visited {
+    background-color: var(--main-color-1);
+    color: var(--font-color-1);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: var(--main-color-5);
+}

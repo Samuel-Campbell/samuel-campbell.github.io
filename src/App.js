@@ -5,7 +5,6 @@ import SkillBarChart from './Components/SkillBarChart';
 import About from './Components/About';
 import Contact from './Components/Contact';
 import Home from './Components/Home';
-import Cv from './Components/Cv';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 class App extends Component {
@@ -19,7 +18,6 @@ class App extends Component {
                         <Route exact path='/skills' component={SkillBarChart} />
                         <Route exact path='/about' component={About} />
                         <Route exact path='/contact' component={Contact} />
-                        <Route exact path='/cv' component={Cv} />
                     </Switch>
                 </div>	
             </Router>

@@ -6,13 +6,10 @@ class TabNavigation extends Component {
     render() {
         return (
             <div id="tab-navigation-component">
-                <ul>
-                    <li><Link to={'/'}>Home</Link></li>
-                    <li><Link to={'/skills'}>Skills</Link></li>
-                    <li><Link to={'/about'}>About</Link></li>
-                    <li><Link to={'/contact'}>Contact</Link></li>
-                    <li><Link to={'/cv'}>CV</Link></li>
-                </ul>  
+                <Link to={'/'}>Home</Link>
+                <Link to={'/skills'}>Skills</Link>
+                <Link to={'/about'}>About</Link>
+                <Link to={'/contact'}>Contact</Link>
             </div>
         );
     }
