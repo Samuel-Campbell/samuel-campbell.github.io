@@ -4,8 +4,27 @@
     opacity:0.95;
     background-color:var(--main-color-2);    
     position:absolute;
-    top:10%; 
-    right:1%;
+    top:25px; 
+    right:0;
     bottom:0; 
-    left:1%;
+    left:0;
+}
+
+#chatbot-reply{
+    background-color:var(--main-color-5);
+    height: 300px;
+    width:70%;
+    position: relative;
+    left:15%;
+    overflow-y: scroll;
+}
+
+#chat-reply{
+    padding-top:15px;
+    position: relative;
+    left: 15%;
+}
+
+#chat-text{
+    width: 68%;
 }

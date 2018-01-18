@@ -5,13 +5,15 @@ class About extends Component {
     render() {
         return (
             <div id="about-component">
-                <h1>About</h1>
                 <br/>
                 <h1>Chatbot in dev</h1>
+
+                {/* CHAT WINDOW */}
                 <div id="chatbot-reply">
+                    
                 </div>
-                <form>
-                    <input type="text"/>
+                <form id="chat-reply">
+                    <input type="text" id="chat-text"/>
                     <input type="submit"/>
                 </form>
             </div>

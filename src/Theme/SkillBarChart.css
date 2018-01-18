@@ -3,6 +3,7 @@
 #skillbar-chart-component{
     background-color:var(--main-color-2);
     opacity: 0.95;
+    padding-top:25px;
 }
 
 .bar-label {

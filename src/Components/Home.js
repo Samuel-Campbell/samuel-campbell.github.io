@@ -55,7 +55,6 @@ class Home extends Component {
                 website: "http://www.concordiasae.ca/"           
             }
         }
-
         this.toggleIcon = this.toggleIcon.bind(this);
     }
 

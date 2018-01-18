@@ -32,6 +32,7 @@ class SkillBarChart extends Component {
                 <Bars data={this.state.primary_skills} makeUppercase={true}/>
                 <h1>Secondary Spec</h1>
                 <Bars data={this.state.secondary_skills} makeUppercase={true}/>
+                <br/>
             </div>
         );
     }
