@@ -28,3 +28,7 @@
 #chat-text{
     width: 68%;
 }
+
+#contact-component{
+    color:var(--font-color-1);
+}

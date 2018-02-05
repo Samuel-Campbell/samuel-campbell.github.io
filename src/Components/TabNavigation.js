@@ -9,7 +9,6 @@ class TabNavigation extends Component {
                 <Link to={'/'}>Home</Link>
                 <Link to={'/skills'}>Skills</Link>
                 <Link to={'/about'}>About</Link>
-                <Link to={'/contact'}>Contact</Link>
             </div>
         );
     }
