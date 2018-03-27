@@ -4,17 +4,17 @@
 permalink:           pretty
 
 # Setup
-title:               Lanyon
+title:               Samuel Campbell
 tagline:             ''
 description:         ''
-url:                 http://lanyon.getpoole.com
+url:                 
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
   name:              Samuel Campbell
-  url:               https://twitter.com/mdo
+  url:               
   email:             samuel.pcampbell@gmail.com
 
 # Custom vars
