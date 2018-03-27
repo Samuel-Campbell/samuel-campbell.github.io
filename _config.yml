@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Lanyon
+tagline:             ''
+description:         ''
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Samuel Campbell
+  url:               https://twitter.com/mdo
+  email:             samuel.pcampbell@gmail.com
+
+# Custom vars
+version:             1.0.0
