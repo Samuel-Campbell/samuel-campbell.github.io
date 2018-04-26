@@ -6,12 +6,12 @@ title: Home
 <div class="container content">
     <div class="contact-content">
         <a href="https://github.com/Samuel-Campbell" target="_blank"><img src="/assets/img/github-logo.png"></a>
-        <a href="https://www.linkedin.com/in/samuel-campbell-3b884b155/" target="_blank"><img src="/assets/img/linkedin-logo.png" width="25px"></a>
+        <a href="https://www.linkedin.com/in/samuel-campbell-3b884b155/" target="_blank"><img src="/assets/img/linkedin-logo.png" width="30px"></a>
     </div>
 </div>
 
 
-## ~/$ cat aboutme.txt
+## **~$ cat aboutme.txt**
 
 Hi my name is Samuel Campbell and I am studying Software Engineering at Concordia University!
 
@@ -21,7 +21,7 @@ I am particularly interested in Machine Learning, Natural Language Processing, a
 
 ---
 
-## ~/$ cat skills.txt
+## **~$ cat skills.txt**
 
 
 #### **Proficient Programming Languages**  
@@ -71,7 +71,7 @@ I am particularly interested in Machine Learning, Natural Language Processing, a
 
 ---
 
-## ~/$ cat hobbies.txt
+## **~$ cat hobbies.txt**
 
 * Boxing / Muay Thai
 * Golf
@@ -81,4 +81,4 @@ I am particularly interested in Machine Learning, Natural Language Processing, a
 
 ---
 
-## ~/$ ▮
+## **~$ ▮**
