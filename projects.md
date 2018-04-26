@@ -3,7 +3,14 @@ layout: page
 title: Projects
 ---
 
-### **~/Projects$ cat ProceZeus.txt**
+### **~/Projects$ cat Tables of Contents** <a name="top"></a>
+1. [ProceZeus - Chatbot & Machine Learning](#procezeus)
+2. [MDA - Manufacturing Automation](#mda)
+3. [MCGA - Android App](#mcga)
+4. [ADS - Hacking & Testing](#ads)
+5. [SAE - Data Acquisition](#sae)
+
+### **~/Projects$ cat ProceZeus.txt** <a name="procezeus"></a>
 
 ![alt text](/assets/img/procezeus.png)
 
@@ -13,13 +20,19 @@ ProceZeus, is the first open sourced AI-powered web chatbot that aims to help pe
 
 #### **Frameworks & Technology**  
 
-* Rasa
-* SkLearn
-* Keras / Tensorflow
-* NLTK
-* Vue.js
-* PostgreSQL
-* Docker
+<div class="container content">
+    <div class="skill-content">
+        <img src="/assets/img/sklearn.png" width="80px">
+        <img src="/assets/img/tensorflow.png" width="100px">
+        <img src="/assets/img/rasa.png" width="100px">
+        <img src="/assets/img/vuejs.png" width="80px">
+        <img src="/assets/img/flask.png" width="80px">
+        <img src="/assets/img/postgresql.png" width="100px">
+        <img src="/assets/img/docker.png" width="100px">
+        <img src="/assets/img/travis.png" width="100px">
+        <img src="/assets/img/python.png" width="100px">
+    </div>
+</div>
 
 #### **Reference**
 
@@ -29,9 +42,11 @@ ProceZeus, is the first open sourced AI-powered web chatbot that aims to help pe
     <a href="https://capstone.cyberjustice.ca/" target="_blank"><img src="/assets/img/firefox-logo.png" width="30px"></a>
 </div>
 
+[Back to top](#top)
+
 ---
 
-### **~/Projects$ cat MDA.txt**
+### **~/Projects$ cat MDA.txt** <a name="mda"></a>
 
 ![alt text](/assets/img/oneweb.png)
 
@@ -41,10 +56,16 @@ Maxar Technologies Ltd. is an international space technology company. Participat
 
 #### **Frameworks & Technology**  
 
-* Microsoft SQL
-* Telerick MVC
-* Visual Studio
-* Custom Hardware
+<div class="container content">
+    <div class="skill-content">
+        <img src="/assets/img/c-sharp.png" width="80px">
+        <img src="/assets/img/opencv.png" width="70px">
+        <img src="/assets/img/python.png" width="100px">
+        <img src="/assets/img/mysql.png" width="80px">
+        <img src="/assets/img/c.png" width="80px">
+        <img src="/assets/img/telerick.png" width="100px">
+    </div>
+</div>
 
 #### **Reference**
 
@@ -52,9 +73,11 @@ Maxar Technologies Ltd. is an international space technology company. Participat
     <a href="https://mdacorporation.com/" target="_blank"><img src="/assets/img/firefox-logo.png" width="30px"></a> 
 </div>
 
+[Back to top](#top)
+
 ---
 
-### **~/Projects$ cat MCGA.txt**
+### **~/Projects$ cat MCGA.txt** <a name="mcga"></a>
 
 ![alt text](/assets/img/mcga.png)
 
@@ -64,9 +87,16 @@ MCGA is a mobile Campus Guide application that is meant to help new incoming stu
 
 #### **Frameworks & Technology**  
 
-* Android Studio
-* Google Maps API
-* SQLite
+<div class="container content">
+    <div class="skill-content">
+        <img src="/assets/img/android-studio.png" width="80px">
+        <img src="/assets/img/sqlite.png" width="120px">
+        <img src="/assets/img/googlemaps.png" width="100px">
+        <img src="/assets/img/java.png" width="100px">
+        <img src="/assets/img/graddle.png" width="100px">
+        <img src="/assets/img/travis.png" width="100px">
+    </div>
+</div>
 
 #### **Reference**
 
@@ -74,9 +104,11 @@ MCGA is a mobile Campus Guide application that is meant to help new incoming stu
     <a href="https://github.com/Taimoorrana1/MCGA" target="_blank"><img src="/assets/img/github-logo.png"></a>
 </div>
 
+[Back to top](#top)
+
 ---
 
-### **~/Projects$ cat ADS.txt**
+### **~/Projects$ cat ADS.txt** <a name="ads"></a>
 
 ![alt text](/assets/img/ads.jpg)
 
@@ -86,12 +118,18 @@ Headquartered in Montreal, Canada, Automotive Data Solutions Inc. is a technolog
 
 #### **Frameworks & Technology**  
 
-* FPGA (Spartan)
-* UART, CAN, I2C, Machester, & SPI
-* Xilinx
-* Jenkins Continous Integration
-* Atmel / STM microcontrollers
-* MySQL
+<div class="container content">
+    <div class="skill-content">
+        <img src="/assets/img/xilinx.jpg" width="80px">
+        <img src="/assets/img/atmel.png" width="100px">
+        <img src="/assets/img/python.png" width="100px">
+        <img src="/assets/img/c-sharp.png" width="100px">
+        <img src="/assets/img/c.png" width="100px">
+        <img src="/assets/img/jenkins.png" width="100px">
+        <img src="/assets/img/mysql.png" width="100px">
+        <img src="/assets/img/wireshark.png" width="90px">
+    </div>
+</div>
 
 #### **Reference**
 
@@ -99,9 +137,11 @@ Headquartered in Montreal, Canada, Automotive Data Solutions Inc. is a technolog
     <a href="https://www.adsdata.ca/" target="_blank"><img src="/assets/img/firefox-logo.png" width="30px"></a> 
 </div>
 
+[Back to top](#top)
+
 ---
 
-### **~/Projects$ cat SAE.txt**
+### **~/Projects$ cat SAE.txt** <a name="sae"></a>
 
 ![alt text](/assets/img/sae.png)
 
@@ -109,14 +149,16 @@ Headquartered in Montreal, Canada, Automotive Data Solutions Inc. is a technolog
 
 Concordia SAE, located in Montreal, Quebec, is a student-run organization of SAE International at Concordia University. A world-renowned engineering organization, SAE International hosts the Collegiate Design Series for students. These yearly international competitions allow students to apply classroom knowledge to real-life situations, challenging students to design, manufacture, test and compete with a vehicle in a dynamic environment. Designed PCB for data collection of the vehicle on the Baja team. Sensors used consisted of: accelerometer, gyroscope, hall effect sensor, shock sensors, steering potentiometer, and IR thermometer.
 
-*Note: First project, 0 past experience!*
-
 #### **Frameworks & Technology**  
 
-* Arduino
-* Altium
-* Various sensors: Ir, Hall Effect, etc.
-* I2C, SPI
+<div class="container content">
+    <div class="skill-content">
+        <img src="/assets/img/altium.png" width="110px">
+        <img src="/assets/img/c.png" width="100px">
+        <img src="/assets/img/c++.png" width="75px">
+        <img src="/assets/img/arduino.png" width="100px">
+    </div>
+</div>
 
 #### **Reference**
 
@@ -125,6 +167,8 @@ Concordia SAE, located in Montreal, Quebec, is a student-run organization of SAE
     <a href="https://www.facebook.com/concordiasae/" target="_blank"><img src="/assets/img/facebook-logo.png" width="30px"></a>
     <a href="http://www.concordiasae.ca/" target="_blank"><img src="/assets/img/firefox-logo.png" width="30px"></a> 
 </div>
+
+[Back to top](#top)
 
 ---
 

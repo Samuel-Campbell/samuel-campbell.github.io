@@ -286,6 +286,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
+  position: relative;
   max-width: 38rem;
   padding-left:  1rem;
   padding-right: 1rem;
@@ -429,8 +430,15 @@ a.pagination-item:hover {
   }
 }
 
-.contact-content a img{
+.contact-wrapper {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.contact-content a img {
     display: inline-block;
+    margin-right: 10px;
 }
 
 .skill-content img {
