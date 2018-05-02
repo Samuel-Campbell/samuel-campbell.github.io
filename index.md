@@ -5,7 +5,7 @@ title: Home
 
 ## **~$ cat aboutme.txt**
 
-Hi my name is Samuel Campbell and I am studying Software Engineering at Concordia University!
+Hi my name is Samuel Campbell and I am graduating from Software Engineering at Concordia University mid August!
 
 I spent a great deal of time searching for an academic field of interest. One day I decided to investigate C++... My life would never be the same. It sparked my interest on the same order of magnitude that Pokemon Red/Blue did for you and I as children.
 
