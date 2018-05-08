@@ -24,6 +24,15 @@ I am particularly interested in Machine Learning, Natural Language Processing, a
         <img src="/assets/img/c.png" width="70px">
         <img src="/assets/img/c-sharp.png" width="70px">
         <img src="/assets/img/java.png" width="70px">
+    </div>
+</div>
+
+---
+
+#### **Familiar Programming Languages**
+<div class="container content">
+    <div class="skill-content">
+        <img src="/assets/img/R.png" width="70px">
         <img src="/assets/img/php.png" width="70px">
         <img src="/assets/img/ruby.png" width="70px">
     </div>
@@ -61,6 +70,8 @@ I am particularly interested in Machine Learning, Natural Language Processing, a
         <img src="/assets/img/jenkins.png" width="100px">
         <img src="/assets/img/graddle.png" width="100px">
         <img src="/assets/img/travis.png" width="100px">
+        <img src="/assets/img/opengl.png" width="100px">
+        <img src="/assets/img/jupyter.png" width="70px">
     </div>
 </div>
 
