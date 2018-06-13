@@ -4,11 +4,52 @@ title: Projects
 ---
 
 ### **~/Projects$ cat Tables of Contents** <a name="top"></a>
-1. [ProceZeus - Chatbot & Machine Learning](#procezeus)
-2. [MDA - Manufacturing Automation](#mda)
-3. [MCGA - Android App](#mcga)
-4. [ADS - Hacking & Testing](#ads)
-5. [SAE - Data Acquisition](#sae)
+1. [DOTA 2 - Outcome Prediction](#dota2)
+2. [ProceZeus - Chatbot & Machine Learning](#procezeus)
+3. [MDA - Manufacturing Automation](#mda)
+4. [MCGA - Android App](#mcga)
+5. [ADS - Hacking & Testing](#ads)
+6. [SAE - Data Acquisition](#sae)
+
+### **~/Projects$ cat Dota2.txt** <a name="dota2"></a>
+
+![alt text](/assets/img/dota2.jpg)
+
+**About**  
+DOTA is an online multiplayer game which stands for Defense of the Ancients. The game is developped and published by valve and represents the second iteration of its kind. Originally, the game was developped by someone with the alias: "IceFrog" who published DOTA through a community-created mod using the Warcraft III engine.  
+
+The game is exceptionally deep and is far more complex than what meets the eyes. The purpose of this data analytic project was to determine whether it is possible to predict if a given team would win simply based on their hero draft. The investigation proved that with an extremely small and finite set of 2000 data points, it was possible to obtain a 63% accuracy prediction on the winning team before a game even begins.
+
+**Challenges**
+* Data Wrangling
+* Creating dataset
+* Finding hidden features 
+ 
+**Notable Research & Development**
+* Clustering
+* Classification
+* Entity matching
+
+#### **Frameworks & Technology**  
+
+<div class="container content">
+    <div class="skill-content">
+        <img src="/assets/img/sklearn.png" width="80px">
+        <img src="/assets/img/pandas.png" width="80px">
+        <img src="/assets/img/python.png" width="100px">
+        <img src="/assets/img/jupyter.png" width="100px">
+    </div>
+</div>
+
+#### **Reference**
+
+<div class="contact-content">
+    <a href="https://github.com/Samuel-Campbell/dota2" target="_blank"><img src="/assets/img/github-logo.png"></a>
+</div>
+
+[Back to top](#top)
+
+---
 
 ### **~/Projects$ cat ProceZeus.txt** <a name="procezeus"></a>
 
