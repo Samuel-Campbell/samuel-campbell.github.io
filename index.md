@@ -84,6 +84,7 @@ I am particularly fond of Machine Learning, Natural Language Processing, as well
 * 3D printing
 * Fishing
 * Travelling
+* Chess
 
 ---
 
